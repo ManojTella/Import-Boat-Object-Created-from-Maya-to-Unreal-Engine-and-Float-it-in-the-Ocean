@@ -26,7 +26,7 @@ To create a boat in Maya and make it floating in unreal engine.
 11.Press play button now the boat starts floating the waterbody.
 
 # Output
-![](h.png)
+![](h.jpg)
 Youtube Link: https://youtu.be/lL6vBS1OlH8
 # Result
 Therefore a boat is created in Maya and made it to float in the Unreal Engine.
